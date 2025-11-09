@@ -1,0 +1,3 @@
+table.profileInfo td.text a img, table.friendSpace {
+  transition: .7s ease-in-out;
+  animation: softBounce 3s infinite;}
